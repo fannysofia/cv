@@ -6,8 +6,8 @@
     {% endif %}
 
     {% if page.location %}
-    <i class="fi-compass" style="margin-left:1em"></i>
-    {{ page.location }}
+    <i class="fi-marker" style="margin-left:1em"></i>
+    <span style="margin-left:0.5em">{{ page.location }}</span>
     {% endif %}
 
     {% if page.email %}
@@ -17,7 +17,7 @@
 
     {% if page.phone %}
     <i class="fi-telephone" style="margin-left:1em"></i>
-    {{ page.phone }}
+    <span style="margin-left:0.5em">{{ page.phone }}</span>
     {% endif %}
 
     {% if page.homepage %}
