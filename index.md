@@ -94,7 +94,7 @@ Vaasa, FI
 
 ## Skills
 
-HTML5, CSS3 <br>
+HTML5, CSS3, SCSS <br>
 JavaScript, React <br>
 Python, Robot Framework <br>
 Test automation, Software testing <br>
