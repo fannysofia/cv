@@ -220,7 +220,7 @@ li {
   text-align: center;
   position: relative;
   font-weight: lighter;
-  color: #3f4145;
+  color: rgb(51, 54, 52);
   /* font-family: Menlo,monospace,sans-serif; */
 }
 
@@ -242,7 +242,7 @@ li {
 
 a {
   text-decoration: none;
-  color: rgb(20, 116, 151);
+  color: rgb(31, 74, 40);
 }
 
 @media print {
