@@ -1,7 +1,8 @@
 ---
 layout: cv
 title: Fanny Takala
-location: Vaasa
+location: Vaasa, Finland
+job: Web developer
 email:
   url: mailto:fannysofia.takala@gmail.com
   text: fannysofia.takala@gmail.com
