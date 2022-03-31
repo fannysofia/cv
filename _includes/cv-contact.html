@@ -1,5 +1,10 @@
 <div id="contact-info">
 
+    {% if page.job %}
+    <i class="fi-shopping-bag" style="margin-left:1em"></i>
+    <span style="margin-left:0.5em">{{ page.job }}</span>
+    {% endif %}
+
     {% if page.location %}
     <i class="fi-compass" style="margin-left:1em"></i>
     {{ page.location }}
