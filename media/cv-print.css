@@ -197,6 +197,15 @@ h3 {
   margin-top: 10px;
 }
 
+h1,
+h2 {
+  color: rgb(31, 74, 40);
+}
+
+h3 {
+  color: rgb(90, 109, 94);
+}
+
 code {
   font-family: "Palatino";
   font-style: italic;
@@ -225,6 +234,10 @@ li {
 }
 
 #contact-info a {
+  text-decoration: underline;
+}
+
+#contact-info a:hover {
   text-decoration: none;
 }
 
