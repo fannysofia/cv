@@ -65,15 +65,28 @@ Vaasa, FI
 
 ### **Morgan Digital** `10/2021 -`
 
+```
+Vaasa, FI 
+```
+
 _Web developer_<br>
 Building efficient and accessible websites with HTML5, CSS3, Javascript, PHP and Wordpress. Conducting accessibility audits.
 
 ### **Danfoss Drives** `9/2016 - 9/2021`
 
-_Software Verification Engineer, Lean 6 Sigma Green Belt_<br>
-Software testing and test automation mainly with Robot Framework and Python. Years of knowledge also in PLC programming, NI LabView/TestStand, communication protocols, functional safety.
+```
+Vaasa, FI 
+```
+
+_Software Verification Engineer, Certified Lean 6 Sigma Green Belt_<br>
+Software testing and test automation mainly with Robot Framework and Python.<br>
+Years of knowledge also in PLC programming, NI LabView/TestStand, communication protocols, functional safety.
 
 ### **Danfoss Drives / Vacon PLC** `4/2014 - 8/2016`
+
+```
+Vaasa, FI 
+```
 
 _Software Verification Trainee_<br>
 Start of the journey of becoming a software testing pro.
