@@ -12,7 +12,7 @@ homepage:
 github:
   url: https://github.com/fannysofia
   text: fannysofia
-phone: 0504606280
+phone: 0000000000
 ---
 
 # Fanny **Takala**
