@@ -81,7 +81,7 @@ Vaasa, FI
 ```
 
 - Highway2Code web development training of 6 months
-- Courses: JavaScript, React, PHP, MySQL, Python, IoT, Cyber Security
+- Courses: JavaScript, React, Python, MySQL, IoT, Cyber Security, PHP
 
 ### **Vaasa University** `2011 - 2017`
 
