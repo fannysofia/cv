@@ -42,7 +42,7 @@ Vaasa, FI
 ```
 
 _Web developer_<br>
-Building efficient and accessible websites with HTML5, CSS3, SCSS, Javascript, PHP and Wordpress. Conducting accessibility audits.
+Building efficient and accessible websites with HTML5, CSS3, SCSS, Javascript and PHP. Conducting accessibility audits.
 
 ### **Danfoss Drives** `9/2016 - 9/2021`
 
