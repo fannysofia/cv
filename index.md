@@ -2,7 +2,7 @@
 layout: cv
 title: Fanny Takala
 location: Vaasa, Finland
-job: Web developer
+job: Software Developer
 email:
   url: mailto:fannysofia.takala@gmail.com
   text: fannysofia.takala@gmail.com
@@ -42,6 +42,7 @@ Vaasa, FI
 ```
 
 _Junior Software Developer_<br>
+Focus on front-end software development.
 
 ### **Morgan Digital** `10/2021 -07/2022`
 
