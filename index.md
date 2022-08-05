@@ -29,7 +29,7 @@ Supported arguments:
 
 ## Professional summary
 
-I'm a web developer with a strong software testing background. I'm passionate about accessibility and sustainability. I am currently strengthening my front-end development skills with React projects. 
+I'm a junior software developer with a strong software testing background. I'm passionate about accessibility and sustainability. I am currently strengthening my front-end development skills with React projects. 
 
 When I am not coding, I am usually exploring outdoors. Or baking sourdough bread.
 
