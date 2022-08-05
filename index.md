@@ -35,7 +35,15 @@ When I am not coding, I am usually exploring outdoors. Or baking sourdough bread
 
 ## Experience
 
-### **Morgan Digital** `10/2021 -`
+### **Devatus** `08/2022 -`
+
+```
+Vaasa, FI 
+```
+
+_Junior Software Developer_<br>
+
+### **Morgan Digital** `10/2021 -07/2022`
 
 ```
 Vaasa, FI 
